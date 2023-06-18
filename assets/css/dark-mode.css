@@ -1,0 +1,25 @@
+.theme-icon {
+  padding: 10px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
+  border-radius: 10%;
+}
+
+.theme-icon .icon {
+  font-size: 30px;
+}
+
+.hide-icon {
+  display: none;
+}
+
+/* add qurey */
+
+@media (max-width: 650px) {
+  .theme-icon {
+    padding: 7px;
+  }
+
+  .theme-icon .icon {
+    font-size: 25px;
+  }
+}
