@@ -2,6 +2,10 @@
 
 Welcome to the Startup Template repository! This template is designed to provide startups with a solid foundation for building their website. It offers a modern and sleek design, responsive layout, and easy customization options.
 
+## Demo
+
+Live demo of the template [here](https://startup-template1.vercel.app/).
+
 ## Features
 
 - Responsive design: The template is fully responsive and optimized for various screen sizes.
